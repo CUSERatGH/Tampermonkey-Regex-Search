@@ -1,5 +1,6 @@
 ## just for tampermonkey javascript auto updata
-https://raw.githubusercontent.com/CUSERatGH/Tampermonkey-Regex-Search/refs/heads/main/URLimport.js
+### Import the user script into Tampermonkey using this raw URL.
+### https://raw.githubusercontent.com/CUSERatGH/Tampermonkey-Regex-Search/refs/heads/main/URLimport.js
 ### Overview
 This user script, named "Web Page Content Search Tool," is designed to enhance the browsing experience by enabling users to search for specific content within any webpage and highlight matching text. Additionally, it provides navigation functionality to jump between highlighted results directly from the search interface.
 
